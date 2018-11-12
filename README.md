@@ -6,3 +6,5 @@ Stopwatch which counts in different unit of measures:
 - seconds
 - minutes
 - hours
+
+See working version (here)[https://depken.github.io/clockface/index.html].
