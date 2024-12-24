@@ -7,4 +7,4 @@ Stopwatch which counts in different unit of measures:
 - minutes
 - hours
 
-See working version [here](https://depken.github.io/clockface/index.html).
+See working version [here](https://jonas-dp.github.io/clockface/index.html).
